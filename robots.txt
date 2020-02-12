@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oosaiyahz.briangarland.dev/sitemap.xml
